@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "e61indexingclient"
+version = "0.0.5"
+description = ""
+authors = ["x"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+# The remaining dependencies don't matter.
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
