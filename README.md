@@ -1,4 +1,10 @@
-# A solution to Stackoverflow question #76691557.
+# A solution to Stack Overflow question #76691557.
+
+## Question
+
+How to properly create a python package and use it in another project?
+
+## Answer
 
 Create a virtual environment (whatever tool you preferred) and activate it.
 
